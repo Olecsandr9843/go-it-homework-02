@@ -1,9 +1,14 @@
 body{
     font-family: "Roboto", sans-serif;
+    color: #434455;
 }
 
 header{
     background-color: #E7E9FC;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 
 a:focus,
@@ -13,11 +18,11 @@ a:hover{
 }
 
 .list{
-    color: #2E2F42  ;
+    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
 }
 
 li{
