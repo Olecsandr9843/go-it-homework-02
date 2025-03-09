@@ -19,19 +19,23 @@ a:hover{
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.2em;
 }
 
 li{
     list-style-type: none;
+    letter-spacing: 0.02em;
+    color: #2e2f42; 
 }
 
 .main-name{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
-    letter-spacing: 3%;
+    line-height: 1.17;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #4d5ae5;
 }
 
 .contacts{
