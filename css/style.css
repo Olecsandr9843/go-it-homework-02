@@ -1,0 +1,150 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+header{
+    background-color: #E7E9FC;
+}
+
+a:focus,
+a:hover{
+    text-decoration: underline;
+    color: #404BBF;
+}
+
+.list{
+    color: #2E2F42  ;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+}
+
+li{
+    list-style-type: none;
+}
+
+.main-name{
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    letter-spacing: 3%;
+}
+
+.contacts{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        letter-spacing: 2%;
+}
+
+.hero-images{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+    letter-spacing: 2%;
+    text-align: center;
+}
+
+.button{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 4%;
+    background-color: #4D5AE5;
+}
+
+.button:hover,
+.button:focus{
+    background-color: #404BBF;
+    text-decoration: underline;
+}
+
+.section-1 h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.section-1 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+.section-2{
+    background-color: #F4F4FD;
+    text-align: center;
+}
+
+.section-2 h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.section-2 h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.section-2 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+.section-3{
+    background-color: #E7E9FC;
+}
+
+.section-3 h2{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: 2%;
+    text-align: center;
+    color: #2E2F42;
+}
+
+.section-3 h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
+}
+
+.section-3 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #434455;
+}
+
+footer{
+    background-color: #2E2F42;
+}
+
+.footer p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #E7E9FC;
+}
