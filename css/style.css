@@ -48,7 +48,7 @@ li{
 }
 Ф
 .hero-images{
-    background-color: #2E2F42;
+    background-color: #2e2f42;
     color: #FFFFFF;
     font-weight: 700;
     font-size: 56px;
@@ -61,8 +61,10 @@ li{
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 4%;
+    letter-spacing: 0.04;
     background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    cursor: pointer;
 }
 
 .button:hover,
@@ -73,10 +75,11 @@ li{
 
 .section-1 h3{
     font-weight: 500;
-    font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
-    color: #2E2F42;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02;
+    color: #FFFFFF;
+    text-align: center;
 }
 
 .section-1 p{
