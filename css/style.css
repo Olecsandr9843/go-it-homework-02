@@ -15,7 +15,7 @@ a:hover{
 }
 
 .list{
-    color: #2E2F42  ;
+    color: #2e2f42;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -26,7 +26,7 @@ li{
     list-style-type: none;
     letter-spacing: 0.02em;
     color: #2e2f42; 
-}
+}   
 
 .main-name{
     font-family: "Raleway", sans-serif;
@@ -43,8 +43,10 @@ li{
         font-size: 16px;
         line-height: 24px;
         letter-spacing: 2%;
+        font-style: normal;
+        color: #434455;
 }
-
+Ф
 .hero-images{
     background-color: #2E2F42;
     color: #FFFFFF;
