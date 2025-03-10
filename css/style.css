@@ -119,9 +119,9 @@ li{
 .section-2 h3{
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
-    letter-spacing: 2%;
-    color: #2E2F42;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42 ;
 }
 
 .section-2 p{
