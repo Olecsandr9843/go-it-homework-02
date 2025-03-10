@@ -108,6 +108,13 @@ li{
     text-align: center;
 }
 
+.section-2 h1,h2,h3,h4,h5,h6{
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
 .section-2 h2{
     font-weight: 700;
     font-size: 36px;
@@ -119,9 +126,9 @@ li{
 .section-2 h3{
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42 ;
+    line-height: 24px;
+    letter-spacing: 2%;
+    color: #2E2F42;
 }
 
 .section-2 p{
