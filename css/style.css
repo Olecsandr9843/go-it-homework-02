@@ -50,25 +50,34 @@ li{
         font-style: normal;
         color: #434455;
 }
-Ф
+
 .hero-images{
     background-color: #2e2f42;
     color: #FFFFFF;
     font-weight: 700;
     font-size: 56px;
-    line-height: 60px;
+    line-height: 60%;
     letter-spacing: 2%;
     text-align: center;
+}
+
+.hero-images h1{
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
 }
 
 .button{
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 0.04;
+    letter-spacing: 0.04em;
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     cursor: pointer;
+    color: #ffffff;
 }
 
 .button:hover,
