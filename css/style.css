@@ -86,7 +86,7 @@ li{
     text-decoration: underline;
 }
 
-.section-1 h3{
+.section-one h3{
     font-weight: 500;
     font-size: 56px;
     line-height: 1.07;
@@ -95,7 +95,7 @@ li{
     text-align: center;
 }
 
-.section-1 p{
+.section-one p{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -103,35 +103,35 @@ li{
     color: #434455;
 }
 
-.section-2{
+.section-two{
     background-color: #F4F4FD;
     text-align: center;
 }
 
-.section-2 h1,h2,h3,h4,h5,h6{
+.section-two h1,h2,h3,h4,h5,h6{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
 
-.section-2 h2{
+.section-two h2{
     font-weight: 700;
     font-size: 36px;
     line-height: 40px;
     letter-spacing: 2%;
-    color: #2E2F42;
+    color: #2e2f42 ;
 }
 
-.section-2 h3{
+.section-two h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 24px;
     letter-spacing: 2%;
-    color: #2E2F42;
+    color: #2e2f42 ;
 }
 
-.section-2 p{
+.section-two p{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -139,28 +139,31 @@ li{
     color: #434455;
 }
 
-.section-3{
+.section-three{
     background-color: #E7E9FC;
 }
 
-.section-3 h2{
+.section-three h2{
     font-weight: 700;
     font-size: 36px;
-    line-height: 40px;
+    line-height: 1.1;
     letter-spacing: 2%;
     text-align: center;
     color: #2E2F42;
+    background-color: #FFFFFF;
 }
 
-.section-3 h3{
+.section-three h3{
     font-weight: 500;
     font-size: 20px;
-    line-height: 24px;
+    line-height: 1.1;
     letter-spacing: 2%;
     color: #2E2F42;
+    text-transform: capitalize;
+    background-color: #FFFFFF;
 }
 
-.section-3 p{
+.section-three p{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
@@ -175,7 +178,7 @@ footer{
 .footer p{
     font-weight: 400;
     font-size: 16px;
-    line-height: 24px;
+    line-height: 24px;  
     letter-spacing: 2%;
     color: #E7E9FC;
 }
